@@ -1,12 +1,3 @@
-<style>
-    body{
-        color: white;
-    }
-    h3{
-        color: orange;
-    }
-</style>
-
 # **Free Softwares for Commercial Use**
 
 > ### **Art | Graphics | Image Manipulation**
