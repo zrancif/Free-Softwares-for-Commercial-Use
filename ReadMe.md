@@ -105,3 +105,7 @@
 - [1001fonts](https://www.1001fonts.com/free-for-commercial-use-fonts.html)
 - [FontSpace](https://www.fontspace.com/commercial-fonts)
 - [Font Squirrel](https://www.fontsquirrel.com/)
+
+
+Author Notes: 
+Will add when i remember i made this repo and found something i like
