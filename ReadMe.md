@@ -39,14 +39,14 @@
 
  ### **Programming**
 
->>  **Coding Environment**
+>  **Coding Environment**
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [VSCodium - VSCode without Telemetry/Tracking](https://vscodium.com/)
 - [Zed](https://zed.dev/)
 - [Neovim](https://neovim.io/)
 <br>
 
->>  **IDE**
+>  **IDE**
 - [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 - [CodeBlocks](https://www.codeblocks.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
