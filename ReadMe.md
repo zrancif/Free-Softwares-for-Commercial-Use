@@ -1,3 +1,5 @@
+## **Resources**
+
 > ### <u>**Art | Graphics | Image Manipulation**</u>
 >- Aseprite <paid> - <https://www.aseprite.org/> / Aseprite Repo (free, build it yourself) - <https://github.com/aseprite/aseprite>
 >- LibreSprite - <https://libresprite.github.io/>
