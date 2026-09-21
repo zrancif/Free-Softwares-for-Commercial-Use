@@ -92,7 +92,7 @@
 >     - freesound.org - <https://freesound.org/>
 >     - jsfxr - <https://sfxr.me/>
 > - **Typography | Fonts | Text**
->     - Google Fonts - <https://fonts.google.com/>
+>     - Google Fonts (+icons) - <https://fonts.google.com/>
 >     - 1001fonts - <https://www.1001fonts.com/free-for-commercial-use-fonts.html>
 >     - FontSpace - <https://www.fontspace.com/commercial-fonts>
 >     - Font Squirrel - <https://www.fontsquirrel.com/>
