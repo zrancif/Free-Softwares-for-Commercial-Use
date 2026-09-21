@@ -77,6 +77,8 @@
 >   - Audacity - <https://www.audacityteam.org/>
 >   - AudioMass - <https://audiomass.co/>
 >   - Tenacity - <https://tenacityaudio.org/>
+> - **Available Online**
+>   - Online Sequencer <https://onlinesequencer.net/>
 
 > ### <u>**Unity Tools**</u>
 >   - Tilemap Creator 3D - <https://github.com/fkate/Tilemap-Creator-3D>
