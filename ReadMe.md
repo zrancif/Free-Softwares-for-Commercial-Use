@@ -1,4 +1,4 @@
-## **Resources**
+;[## **Resources**
 
 > ### <u>**Art | Graphics | Image Manipulation**</u>
 >- Aseprite <paid> - <https://www.aseprite.org/> / Aseprite Repo (free, build it yourself) - <https://github.com/aseprite/aseprite>
@@ -55,7 +55,6 @@
 >    - GDevelop - <https://gdevelop.io/> / GDevelop Repo - <https://github.com/4ian/GDevelop>
 >    - Bevy - <https://bevy.org/>
 >    - Microstudio <https://microstudio.dev>
->    - Luau Engine (Roblox Studio Fork) - <https://luauengine.org/>
 >- **Library | Framework | Module**
 >    - raylib - <https://www.raylib.com/>
 >    - MonoGame - <https://monogame.net/> 
