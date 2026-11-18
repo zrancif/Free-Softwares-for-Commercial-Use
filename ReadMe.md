@@ -45,6 +45,8 @@
 >    - CodeBlocks - <https://www.codeblocks.org/>
 >    - IntelliJ IDEA - <https://www.jetbrains.com/idea>
 >    - PyCharm - <https://www.jetbrains.com/pycharm>
+> - **AI Tools**
+>    - Kilo Code - <https://kilo.ai/>
 
 >### <u>**Game Development**</u>
 >- **Game Engine**
@@ -53,6 +55,7 @@
 >    - GDevelop - <https://gdevelop.io/> / GDevelop Repo - <https://github.com/4ian/GDevelop>
 >    - Bevy - <https://bevy.org/>
 >    - Microstudio <https://microstudio.dev>
+>    - Luau Engine (Roblox Studio Fork) - <https://luauengine.org/>
 >- **Library | Framework | Module**
 >    - raylib - <https://www.raylib.com/>
 >    - MonoGame - <https://monogame.net/> 
